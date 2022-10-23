@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a096732-7899-4a02-bf00-3866cc25e97d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodlamaioDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/CategoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/CourseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/business/InstructorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/logger/DatabaseLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/logger/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/logger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/logger/MailLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataAccess/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataAccess/CourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataAccess/HibernateCategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataAccess/HibernateCourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataAccess/HibernateInstructorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataAccess/InstructorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataAccess/JdbcCategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataAccess/JdbcCourseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataAccess/JdbcInstructorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/entities/Instructor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GXMPJwv7Qhl2aTaGf7w5c63MD0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a096732-7899-4a02-bf00-3866cc25e97d" name="Changes" comment="" />
+      <created>1666530454106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666530454106</updated>
+      <workItem from="1666530455574" duration="3368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
